@@ -1,0 +1,34 @@
+﻿  Player.cpp
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\player.cpp(72): warning C4018: '>' : signed/unsigned mismatch
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\player.cpp(89): warning C4018: '>' : signed/unsigned mismatch
+  main.cpp
+  GameObject.cpp
+  GameManager.cpp
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(168): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(169): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(183): warning C4018: '<' : signed/unsigned mismatch
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(187): warning C4018: '<' : signed/unsigned mismatch
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(209): warning C4018: '<' : signed/unsigned mismatch
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(216): warning C4018: '<' : signed/unsigned mismatch
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(351): warning C4018: '<' : signed/unsigned mismatch
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(367): warning C4018: '<' : signed/unsigned mismatch
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(386): warning C4018: '<' : signed/unsigned mismatch
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(388): warning C4018: '<' : signed/unsigned mismatch
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(429): warning C4018: '<' : signed/unsigned mismatch
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(433): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(434): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(445): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(445): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(445): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(445): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(469): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(540): warning C4018: '<' : signed/unsigned mismatch
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\gamemanager.cpp(547): warning C4018: '<' : signed/unsigned mismatch
+  Enemy.cpp
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\enemy.cpp(28): warning C4305: 'initializing' : truncation from 'double' to 'float'
+  Boss.cpp
+c:\users\david magana iii\desktop\coding4gamesii_week4notes\coding4gamesii_week4notes\coding4gamesii_week4notes\boss.cpp(26): warning C4305: 'initializing' : truncation from 'double' to 'float'
+  Generating Code...
+MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Coding4GamesII_Week4Notes.vcxproj -> C:\Users\David Magana III\Desktop\Coding4GamesII_Week4Notes\Coding4GamesII_Week4Notes\Coding4GamesII_Week4Notes\Debug\Coding4GamesII_Week4Notes.exe

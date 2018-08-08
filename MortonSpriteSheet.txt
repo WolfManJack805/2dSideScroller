@@ -1,0 +1,11 @@
+# name numFrames frameRate x y w h
+images/MortonSpriteSheet.png
+idle_l 1 12 0 0 60 60
+idle_r 1 12 0 0 60 60
+idle_u 1 12 0 0 60 60
+idle_d 1 12 0 0 60 60
+walk_l 6 12 0 0 60 60
+walk_r 6 12 0 0 60 60
+walk_u 6 12 0 0 60 60
+walk_d 6 12 0 0 60 60
+death	6 12 0 408 60 60

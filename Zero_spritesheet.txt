@@ -1,0 +1,9 @@
+# name numFrames frameRate x y w h
+images/ZeroSpriteSheetz.png
+idle_l 1 12 0 85 53 85
+idle_r 1 12 0 85 53 85
+walk_l 7 12 0 85 53 85
+walk_r 7 20 0 85 53 85
+walk_u 7 12 0 0 53 85
+walk_d 7 12 0 0 53 85
+death  4 12 0 170 53 85

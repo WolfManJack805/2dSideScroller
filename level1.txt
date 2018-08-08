@@ -1,0 +1,68 @@
+# 	name 	type  	x 	y 	w 	h 	layer img
+background 	bg 		0 	0 	640 480	0	images/CanopayBackground.png
+background2 bg 		640 	0 	640 480	0	images/CanopayBackground.png
+player1 	player 250 	250 64  128	2	Zero_spritesheet.txt
+enemy		enemy  500	250	64	64	2	MortonSpriteSheet.txt
+enemy2		enemy  1100	250	64	64	2	MortonSpriteSheet.txt
+enemy3		enemy  2100	250	64	64	2	MortonSpriteSheet.txt
+boss		boss   3400	250	100	100	2	Browser.txt
+bridge1 	object 0	380 100 100	2	images/grassBlock.png
+bridge2		object 100	380 100 100	2	images/grassBlock.png
+bridge3		object 200	380 100 100	2	images/grassBlock.png
+bridge4 	object 300	380 100 100	2	images/grassBlock.png
+
+bridge6 	object 500 	380 100 100	2	images/grassBlock.png
+bridge7 	object 600 	380 100 100	2	images/grassBlock.png
+
+bridge8 	object 700 	380 100 100	2	images/grassBlock.png
+bridge9 	object 800 	380 100 100	2	images/grassBlock.png
+bridge10 	object 800 	280 100 100	2	images/grassBlock.png
+
+bridge11 	object 1000 	380 100 100	2	images/grassBlock.png
+bridge12 	object 1000 	280 100 100	2	images/grassBlock.png
+bridge13 	object 1100 	380 100 100	2	images/grassBlock.png
+bridge14 	object 1200 	380 100 100	2	images/grassBlock.png
+bridge15 	object 1300 	380 100 100	2	images/grassBlock.png
+
+bridge16 	object 1500 	380 100 100	2	images/grassBlock.png
+bridge17 	object 1600 	380 100 100	2	images/grassBlock.png
+bridge18 	object 1700 	380 100 100	2	images/grassBlock.png
+bridge19 	object 1700 	280 100 100	2	images/grassBlock.png
+
+bridge20 	object 1900 	280 100 100	2	images/grassBlock.png
+bridge21 	object 1900 	380 100 100	2	images/grassBlock.png
+bridge22 	object 2000 	380 100 100	2	images/grassBlock.png
+bridge23 	object 2100 	380 100 100	2	images/grassBlock.png
+bridge24 	object 2200 	380 100 100	2	images/grassBlock.png
+bridge25 	object 2300 	380 100 100	2	images/grassBlock.png
+
+bridge26 	object 2500 	380 100 100	2	images/grassBlock.png
+bridge27 	object 2600 	380 100 100	2	images/grassBlock.png
+
+bridge28 	object 2800 	380 100 100	2	images/grassBlock.png
+bridge29 	object 2900 	380 100 100	2	images/grassBlock.png
+
+bridge26 	object 3100 	380 100 100	2	images/grassBlock.png
+bridge27 	object 3200 	380 100 100	2	images/grassBlock.png
+bridge28 	object 3300 	380 100 100	2	images/grassBlock.png
+bridge29 	object 3400 	380 100 100	2	images/grassBlock.png
+bridge30 	object 3400 	280 100 100	2	images/grassBlock.png
+bridge27 	object 3500 	380 100 100	2	images/grassBlock.png
+bridge27 	object 3600 	380 100 100	2	images/grassBlock.png
+bridge27 	object 3600 	280 100 100	2	images/grassBlock.png
+bridge27 	object 3700 	380 100 100	2	images/grassBlock.png
+bridge27 	object 3800 	380 100 100	2	images/grassBlock.png
+bridge27 	object 3800 	280 100 100	2	images/grassBlock.png
+bridge27 	object 3900 	380 100 100	2	images/grassBlock.png
+bridge27 	object 4000 	380 100 100	2	images/grassBlock.png
+bridge27 	object 4000 	280 100 100	2	images/grassBlock.png
+
+
+
+tree1 		enviro 0 	290 100 100	1	images/tree.png
+tree2 		enviro 100 	290 100 100	2	images/tree.png
+tree3 		enviro 200 	290 100 100	2	images/tree.png
+tree4 		enviro 300 	290 100 100	1	images/tree.png
+
+tree6 		enviro 500 	290 100 100	1	images/tree.png
+tree7 		enviro 600 	290 100 100	1	images/tree.png
